@@ -1,6 +1,6 @@
 {
   "name": "@priftisk/basic_calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic calculator",
   "main": "index.js",
   "scripts": {
