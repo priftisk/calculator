@@ -1,0 +1,22 @@
+{
+  "name": "@priftisk/basic_calculator",
+  "version": "1.0.0",
+  "description": "Basic calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/priftisk/calculator.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Konstantinos Priftis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priftisk/calculator/issues"
+  },
+  "homepage": "https://github.com/priftisk/calculator#readme"
+}
